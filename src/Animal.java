@@ -3,6 +3,7 @@ Class is an blueprint of the objects we wants to create(Blueprint of creating re
 */
 
 import java.util.Scanner;
+import JavaTutForSelenium.Class;
 
 public class Animal {
     /*
@@ -51,8 +52,32 @@ public class Animal {
      */
     public Animal() {
         super();
-        //testing
+        
+      
+       
     }
+    
+    public static void main(String[] args) {
+    	Class cl = new Class();
+    	
+		
+	}
     
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
